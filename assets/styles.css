@@ -1,0 +1,9 @@
+/* index.php */
+.navbar-brand{
+  color:#fff !important;
+  font-weight:bold;
+}
+
+.form-handle{
+  width: 500px;
+}
